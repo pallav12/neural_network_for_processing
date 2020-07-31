@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/MatrixMath.jar"/>
 	<classpathentry kind="output" path="resources/code"/>
 </classpath>
